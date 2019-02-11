@@ -5,12 +5,9 @@
          "maintainer":"Thunkit Electronics",
          "websiteURL":"https://thunkitelectronics.com",
          "email":"cameron@thunkitelectronics.com",
-         "help":{
-            "online":"https://digistump.com/board"
-         },
          "platforms":[
          {
-          "name": "T85DUINO by Thunkit Electronics",
+          "name": "T85DUINO",
           "architecture": "avr",
           "version": "1.6.7",
           "category": "T85DUINO",
@@ -20,7 +17,7 @@
           "size": "2491070",
           "boards": [
             {
-              "name": "Digispark (Default - 16.5mhz)"
+              "name": "T85DUINO"
             }
           ],
           "toolsDependencies": [
