@@ -22,7 +22,7 @@
             "online":"https://github.com/digistump/DigistumpArduino/issues"
           },
           "boards":[
-            {  
+            {
               "name":"T85DUINO"
             }
           ],
